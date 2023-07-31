@@ -1,0 +1,17 @@
+Package: com.sasa.bluebird
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Themes
+Maintainer: sasa
+Installed-Size: 4
+Depends: com.spark.snowboard
+Filename: ./com.sasa.bluebird_0.0.1_iphoneos-arm64.deb
+Size: 2908
+MD5sum: c05f337bf0f3348cd0f395a70514249c
+SHA1: 2ca0c64756db8a0c3ceaec05406da077d36368a4
+SHA256: c7e6e9290bba5460803aeb0fd536c32afcc8dd159e74f43672e42099f8609bb3
+SHA512: 634ae546ccfadb814acadff58ecfd34df6be2b23411850b94c0cda8fa58df30220d76a8ab4c4a81dcc237a1510f3ea9da9142bfbf2f2827929c125af91132784
+Description: Bring a bird back!
+Name: blue bird
+Author: sasa
+
